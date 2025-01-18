@@ -8,11 +8,11 @@ We are a group of superheroes — open-source coders, ethical hackers, and devel
 
 ## Meet the Heroes
 
-### ![Team Member 1](https://via.placeholder.com/100](https://via.placeholder.com/100) SatNakExa
+### ![Team Member 1](https://avatars.githubusercontent.com/u/195590943?s=100&v=4) SatNakExa
 **Lead Developer**  
 Specializing in Full Stack Development and AI solutions for humanitarian aid.
 
-### ![Team Member ?](https://avatars.githubusercontent.com/u/195592669?s=400&u=238a29d1a4182b4b5150e11e620584dc79d10d4c&v=4) ?X?
+### ![Team Member ?](https://avatars.githubusercontent.com/u/195592669?s=100&u=238a29d1a4182b4b5150e11e620584dc79d10d4c&v=4) You? Will you join me? 👣
 **Security Expert**  
 Ensuring safety and privacy for users of our open-source projects.
 
